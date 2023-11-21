@@ -7,12 +7,12 @@ var cars = [];
 var fuelImage, powerCoinImage;
 //BP
 function preload() {
-  backgroundImage = loadImage("./assets/background.png");
-  car1_img = loadImage("../assets/car1.png");
-  car2_img = loadImage("../assets/car2.png");
-  track = loadImage("../assets/track.jpg");
-  fuelImage = loadImage("../assets/fuel.png");
-  powerCoinImage = loadImage("../assets/goldCoin.png");
+  backgroundImage = loadImage("background.png");
+  car1_img = loadImage("car1.png");
+  car2_img = loadImage("car2.png");
+  track = loadImage("track.jpg");
+  fuelImage = loadImage("fuel.png");
+  powerCoinImage = loadImage("goldCoin.png");
 }
 
 //BP
